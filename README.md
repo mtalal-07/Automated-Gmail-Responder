@@ -1,4 +1,4 @@
-# Day 3 — LLM-Powered Email Auto-Responder
+# LLM-Powered Email Auto-Responder
 
 ## What this project does
 Scans your unread Gmail inbox, classifies each email (meeting request, support
